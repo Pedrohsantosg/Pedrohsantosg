@@ -5,9 +5,8 @@
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=BEM+VINDOS+AO+MEU+GITHUB;ESTUDANTE+CIÊNCIA+DA+COMPUTAÇÃO;SEMPRE+BUSCANDO+NOVAS+TECNOLOGIAS;&center=true&width=500&height=50&font=georgia"></a>
 </p>
-
+## Hi I'm Pedro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 <h4 align="center">
-	## Hi I'm Pedro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 	Welcome to me github profile, I am a computer science student at the <a href="https://uepb.edu.br"> Universidade Estadual da Paraíba (UEPB)</a> in Brazil.
 I'm an aspiring full-stack software developer, I really like the technology area and I'm learning from new projects and courses, thus developing better ways to build applications and performances in the area.</h4>
 <br>
