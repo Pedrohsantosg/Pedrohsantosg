@@ -6,7 +6,7 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=BEM+VINDOS+AO+MEU+GITHUB;ESTUDANTE+SISTEMA+DA+INFORMAÇÃO;SEMPRE+BUSCANDO+NOVAS+TECNOLOGIAS;&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
-<h4 align="center">Atualmente estou cursando Sistemas da Informação na<i> UNIFACISA </i>. Sempre busco me desenvolver e descobrir novos conhecimentos e tecnologias</h4>
+<h4 align="center">Atualmente estou cursando Ciência da Computação na<i> Universidade Estadual da Paraíba </i>. Sempre busco me desenvolver e descobrir novos conhecimentos e tecnologias</h4>
 <br>
 
 ## **⚙️ Linguagens**
