@@ -65,6 +65,12 @@ I'm an aspiring full-stack software developer, I really like the technology area
 </table>
 <br/>
 
+## **➕ ACTIVITIES**
+
+<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=Pedrohsantosg&theme=vue-dark&hide_border=true&card_width=497"/></p>
+  
+<br/>
+
 ---   
 
 <h3 align = "center">📞 Contato</h3>
