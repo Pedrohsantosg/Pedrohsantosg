@@ -33,7 +33,6 @@ I'm an aspiring full-stack software developer, I really like the technology area
 		    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 		    <img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 		    <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-		    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> 
 	    </td>
     </tr>
     <tr>
@@ -48,6 +47,7 @@ I'm an aspiring full-stack software developer, I really like the technology area
 		    <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
 		    <img alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 		    <img alt="firebase" src="https://img.shields.io/badge/Firebase-F29D0C?style=flat-square&logo=firebase&logoColor=white" />
+			
 	    </td>
     </tr>
     <tr>
