@@ -47,7 +47,6 @@ I'm an aspiring full-stack software developer, I really like the technology area
 		    <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
 		    <img alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 		    <img alt="firebase" src="https://img.shields.io/badge/Firebase-F29D0C?style=flat-square&logo=firebase&logoColor=white" />
-			
 	    </td>
     </tr>
     <tr>
