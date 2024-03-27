@@ -41,11 +41,9 @@ I'm an aspiring full-stack software developer, I really like the technology area
 		    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 		    <img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
 		    <img alt="net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
-		    <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-squaree&logo=java&logoColor=white" />
-		    <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
 		    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 		    <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
-		    <img alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+		    <img alt="python" src="https://img.shields.io/badge/Python-316192?style=flat-square&logo=python&logoColor=white" />
 	    </td>
     </tr>
     <tr>
